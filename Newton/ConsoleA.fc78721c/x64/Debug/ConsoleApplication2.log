@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\igore\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(52,10): error C2065: a: необъявленный идентификатор
+C:\Users\igore\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(52,14): error C2065: b: необъявленный идентификатор
